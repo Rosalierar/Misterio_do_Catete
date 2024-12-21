@@ -1,7 +1,7 @@
 <h1 align="center"> <samp> Mistério do Catete </samp> </h1>
-<h2
+<h2 align="center"
 <a href="https://youtu.be/c6SOTn51LJg?si=JiAAYm0AcriikV1h">
- <img src="https://github.com/Rosalierar/Misterio-do-Catete/blob/main/Imagens/hqdefault.jpg" weidth = "700" alt="YouTube"> 
+ <img src="https://github.com/Rosalierar/Misterio_do_Catete/blob/main/Imagens/hqdefault.jpg" alt="YouTube"> 
 </a>
  </h2>
 <h2 align="center">  
